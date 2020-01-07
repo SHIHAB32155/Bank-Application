@@ -1,5 +1,5 @@
 # Bank-Application
-Bank Application is a console Application build for education purposes. Through this application you can proceed below things:
+Bank Application is a console Application build for educational purposes. Through this application you can proceed below things:
 1. Open Bank Account
 2. Deposit Amount in specific Account input.
 3. Withdraw Amount to input specific Account Number.
